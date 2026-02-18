@@ -48,7 +48,15 @@ Ao separar o componente cromático (Matiz) da intensidade (Valor), podemos criar
     ```
 
 3.  **Output / Saída**:
+
+    ### Original Image / Imagem Original
+
+    ![Pale Blue Dot](pale_blue_dot.png)
+
+    ### Result / Resultado
     - `earth_highlighted.png`: Image with Earth highlighted. / Imagem com a Terra destacada.
+
+    ![Earth Highlighted / Terra Destacada](earth_highlighted.png)
     - `earth_coordinates.csv`: CSV file containing the coordinates. / Arquivo CSV contendo as coordenadas.
 
 ## Requirements / Requisitos
